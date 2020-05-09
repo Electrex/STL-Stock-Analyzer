@@ -1,6 +1,5 @@
 // Yusuf Mostafa
 // Code Blocks on a PC
-// Assignment #5
 #include <iostream>
 #include <iomanip>
 #include <utility>
